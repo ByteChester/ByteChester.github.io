@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: ↓↓↓yazılar↓↓↓
 title: "Dijital Yeraltının Efsanesi: Ars Technica Crack Grubu ve Warez Kültürü"
 date: 2026-05-09
 categories: [tarih, dijital-kültür, warez]
